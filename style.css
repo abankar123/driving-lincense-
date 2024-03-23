@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding :0;
+}
+.container
+{
+border-radius: 10px;
+border: 2px solid gray;
+
+
+}
+.b1
+{
+ 
+   margin-bottom: 200px;
+}
+.isu
+{
+    margin-right: 10px;
+    font-weight: bolder;
+    font-size:30px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+.center
+{
+    text-align: center;
+}
+.greay
+{
+    color: grey;
+}
+
